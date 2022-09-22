@@ -1,0 +1,15 @@
+h1 {
+    letter-spacing: 7px;
+}
+
+.p-body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5rem;
+    font-size: 19px;
+}
+
+ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    line-height: 2.5rem;
+}

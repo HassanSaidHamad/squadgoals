@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53744412885734,
+                    -6.259142289018897
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Border",
+                "population": 1626078
+            }
+        }
+    ]
+}

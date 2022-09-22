@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.540625201514814,
+                    -6.2609099379748345
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54065738802388,
+                    -6.261421850268536
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.539627419733655,
+                    -6.261101905143772
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5394664871883,
+                    -6.261485839269972
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54005657318792,
+                    -6.260184728033134
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.539938555987995,
+                    -6.260632651939563
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54047499780582,
+                    -6.260920602819401
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53984199646079,
+                    -6.261368526094692
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53997074249707,
+                    -6.261592487588258
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53979908111536,
+                    -6.261219218378948
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.540475013660654,
+                    -6.261411162523265
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54089343827855, -6.261837755726755
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54118311686019, -6.261752437113934
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54052865784244, -6.2621043763019495
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.54070031922414, -6.2607179478243555
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Healthy Coral",
+                "population": 32094
+            }
+        }
+    ]
+}

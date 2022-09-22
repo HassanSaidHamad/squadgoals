@@ -1,0 +1,106 @@
+<mat-nav-list>
+    <!-- <div class="profile-card">
+        <div class="header">
+            <h5>Mr_Never5</h5>
+        </div>
+        <img src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Mr_Never5">
+    </div> -->
+
+    <div class="">
+        <div class="header">
+            <h4 class="text-center text-uppercase mt-3"><b>the squad goals</b></h4>
+        </div>
+    </div>
+
+    <mat-divider></mat-divider>
+    <h2 mat-subheader>Pages</h2>
+    <mat-divider></mat-divider>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/">
+        <mat-icon>dashboard</mat-icon>
+        <span class="text-space">Dashboard</span>
+    </a>
+    <!-- <a mat-list-item routerLinkActive="list-item-active" routerLink="/posts">Posts</a> -->
+    <a mat-list-item routerLinkActive="list-item-active" [matMenuTriggerFor]="menuIntro">
+        <mat-icon>info</mat-icon>
+        <span class="text-space">Introduction</span>
+        <mat-menu #menuIntro="matMenu">
+            <button mat-menu-item routerLink="/actionable">
+                <mat-icon>supervisor_account</mat-icon>Actionable Problem
+            </button>
+            <button mat-menu-item routerLink="/causes">
+                <mat-icon>settings_input_composite</mat-icon>Causes
+            </button>
+            <button mat-menu-item routerLink="/effects">
+                <mat-icon>settings_input_composite</mat-icon>Effects
+            </button>
+            <button mat-menu-item routerLink="/hindrances">
+                <mat-icon>settings_input_composite</mat-icon>Obstacles
+            </button>
+            <button mat-menu-item routerLink="/initiative">
+                <mat-icon>settings_input_composite</mat-icon>Initiatives
+            </button>
+        </mat-menu>
+    </a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/aboutUs">
+        <mat-icon>supervisor_account</mat-icon>
+        <span class="text-space">AboutUs</span>
+    </a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/contactUs">
+        <mat-icon>settings_phone</mat-icon>
+        <span class="text-space">ContactUs</span>
+    </a>
+
+    <mat-divider></mat-divider>
+    <h2 matSubheader>Others</h2>
+    <a mat-list-item [matMenuTriggerFor]="menuMap">
+        <mat-icon>room</mat-icon>
+        <span class="text-space">Map</span>
+        <mat-menu #menuMap="matMenu" yPosition="above">
+            <button mat-menu-item routerLink="map-intro">
+                <mat-icon>supervisor_account</mat-icon>Intro
+            </button>
+            <button mat-menu-item routerLink="/stakeholders">
+                <mat-icon>supervisor_account</mat-icon>Stakeholders
+            </button>
+            <button mat-menu-item routerLink="/impacts">
+                <mat-icon>supervisor_account</mat-icon>Impacts
+            </button>
+            <button mat-menu-item routerLink="/map">
+                <mat-icon>supervisor_account</mat-icon>Map
+            </button>
+        </mat-menu>
+    </a>
+    <a mat-list-item routerLinkActive="list-item-active" [matMenuTriggerFor]="menuGraphs">
+        <mat-icon>insert_chart_outlined</mat-icon>
+        <span class="text-space">Graphs</span>
+        <mat-menu #menuGraphs="matMenu">
+            <button mat-menu-item>
+                <mat-icon>star_rate</mat-icon> Rate Of Activities
+            </button>
+            <button mat-menu-item>
+                <mat-icon>star_rate</mat-icon>Coral Destruction
+            </button>
+        </mat-menu>
+    </a>
+    <!-- <a mat-list-item routerLinkActive="list-item-active" [matMenuTriggerFor]="menuOthers">
+        <mat-icon>favorite</mat-icon> 
+        <span class="text-space">Others</span>
+        <mat-menu #menuOthers="matMenu">
+            <button mat-menu-item routerLink="/images">
+                <mat-icon>perm_media</mat-icon>Images
+            </button>
+            <button mat-menu-item>
+                <mat-icon>videocam</mat-icon>
+                Videos</button>
+        </mat-menu>
+    </a> -->
+
+
+    <mat-divider></mat-divider>
+    <h2 matSubheader>Suggestion</h2>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/comments">
+        <mat-icon>comment</mat-icon>
+        <span style="margin-left: 20px;">Comment</span>
+    </a>
+
+</mat-nav-list>

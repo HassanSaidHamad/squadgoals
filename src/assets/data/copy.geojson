@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53755409942999,
+                    -6.258976983340782
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53744412885734,
+                    -6.259142289018897
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.537476752885734,
+                    -6.259146356018897
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53733684049377,
+                    -6.259283598670001
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5371010684049377,
+                    -6.2591010203598670001
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53730300684049377,
+                    -6.25920230203598670001
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5373049377,
+                    -6.2592598670001
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5374767525555,
+                    -6.259146356015555
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53699619993945,
+                    -6.258609044708155
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53692914471222,
+                    -6.258849004715346
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.536980106684915,
+                    -6.259304928425349
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.53700424656672,
+                    -6.259011644213107
+                ]
+            },
+            "properties": {
+                "state": "Zanzibar",
+                "name": "Paje Un-Healthy Coral",
+                "population": 32094
+            }
+        }
+    ]
+}

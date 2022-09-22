@@ -1,0 +1,18 @@
+h1 {
+    letter-spacing: 7px;
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5rem;
+    font-size: 19px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5rem;
+    font-size: 19px;
+}
+img {
+    height: 200px;
+}
